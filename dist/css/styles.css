@@ -11789,3 +11789,11 @@ section#contact form#contactForm :-ms-input-placeholder {
   margin-top: 50px;
   padding-top: 50px;
 }
+
+header.masthead .container .masthead-subheading {
+  color: black;
+}
+
+header.masthead .container .masthead-heading {
+  color: #000;
+}
