@@ -78,7 +78,9 @@
 
 body {
   margin: 0;
-  font-family: var(--bs-body-font-family);
+  /* font-family: var(--bs-body-font-family); */
+  font-family:'Open Sans', sans-serif;
+  
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
@@ -11788,6 +11790,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 .masthead .container {
   margin-top: 50px;
   padding-top: 50px;
+  font-family: 'Open Sans', sans-serif !important;
 }
 
 header.masthead .container .masthead-subheading {
