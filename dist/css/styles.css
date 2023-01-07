@@ -11800,3 +11800,8 @@ header.masthead .container .masthead-subheading {
 header.masthead .container .masthead-heading {
   color: #000;
 }
+
+img .box-custom {
+  min-width: 1px;
+  min-height: 2220;
+}
