@@ -11844,9 +11844,9 @@ h2 {
 }
 
 .align {
-  text-align: justify;
-  padding-left: 0;
-  padding-right: 0;
+  text-align: justify !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
   text-justify: inter-word !important;
-  text-indent: 0; 
+  text-indent: 0 !important; 
 }
