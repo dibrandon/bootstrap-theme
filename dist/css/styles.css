@@ -11814,3 +11814,15 @@ h2 {
 #text2, #text3, #text4{
   font-family: 'Open Sans', sans-serif;
 }
+
+#textCursiva {
+  font-family: 'Parisienne', cursive !important;
+  text-transform: lowercase !important;
+  text-transform: capitalize !important;
+  font-weight: 500 !important;
+}
+
+#may-min {
+  text-transform: lowercase !important;
+  text-transform: capitalize !important;
+}
